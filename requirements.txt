@@ -1,0 +1,8 @@
+pandas>=1.5
+openpyxl
+sqlalchemy
+psycopg2-binary   # for Postgres; use 'pymysql' for MySQL if preferred
+python-dateutil
+tqdm
+regex
+numpy
